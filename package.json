@@ -1,0 +1,22 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morMBen/toDelete2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morMBen/toDelete2/issues"
+  },
+  "homepage": "https://github.com/morMBen/toDelete2#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
